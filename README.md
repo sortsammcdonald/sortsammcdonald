@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
-<a href="https://www.sammcdonald.me target="_blank">
+<a href="https://www.sammcdonald.me" target="_blank">
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
 </a>
 
