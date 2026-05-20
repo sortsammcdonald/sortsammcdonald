@@ -6,8 +6,10 @@
 <a href="https://x.com/wsmcd" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
+
+
 <a href="https://www.sammcdonald.me target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/personal_website">
+  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logoColor=white" alt="Personal Website" />
 </a>
 
 <!--
