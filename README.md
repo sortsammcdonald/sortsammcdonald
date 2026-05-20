@@ -1,5 +1,9 @@
-## Hi there 👋
+# Sam McDonald
 
+
+<a href="https://x.com/wsmcd" target="_blank">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow me on X" />
+</a>
 <!--
 **sortsammcdonald/sortsammcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
