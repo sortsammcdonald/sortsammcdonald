@@ -6,7 +6,8 @@
 <a href="https://x.com/wsmcd" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<img alt="Static Badge" src="https://img.shields.io/badge/personal_website?labelColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/personal_website">
+
 <!--
 **sortsammcdonald/sortsammcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
