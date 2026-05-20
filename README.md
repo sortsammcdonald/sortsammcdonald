@@ -3,13 +3,18 @@
 
 ## Connect with me
 <table style="width:100%; border-collapse: collapse;">
-  <tr style="background-color: #f1f1f1;">test
-    <th style="padding: 8px; border: 1px solid #ddd;">Header</th>
+  <tr style="background-color: #f1f1f1;">
+    <th style="padding: 8px; border: 1px solid #ddd;">X</th>
   </tr>
-</table>
-<a href="https://x.com/wsmcd" target="_blank">
+  <tbody>
+    <tr>
+      <td><a href="https://x.com/wsmcd" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <a href="https://www.sammcdonald.me" target="_blank">
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
