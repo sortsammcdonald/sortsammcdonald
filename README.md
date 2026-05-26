@@ -9,7 +9,9 @@ Feel free to reach out via the links below.
   <img src="https://img.shields.io/badge/@wsmcd-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
 </a>
 <br><br>
-<a href="https://www.sammcdonald.me"><img alt="Static Badge" src="https://img.shields.io/badge/personal_website-blue?logo=squarespace"></a>
+<a href="https://www.sammcdonald.me"><img alt="personal blog" src="https://img.shields.io/badge/personal_website-blue?logo=squarespace"></a>
+<br><br>
+<a href="https://ql-blog.co"><img alt="educational blog" src="https://img.shields.io/badge/educational_blog-purple?logo=pinboard&logoColor=white"></a>
 
 <!--
 **sortsammcdonald/sortsammcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
