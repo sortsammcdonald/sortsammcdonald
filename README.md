@@ -6,6 +6,7 @@ Lately, I've been working on a [script](https://github.com/sortsammcdonald/archi
 
 I'm up for learning more about Functional Programming and the theory behind it. For the most part it's quite beyond me, but it's good to have challenges.
 <hr></hr>
+
 ## Connect with me
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 24px 0;">
