@@ -1,8 +1,11 @@
 # Sam McDonald
 
-Amateur coder (really amateur) based in Berlin. I have various projects on the go at any one time. 
+Amateur coder (really amateur) based in Berlin. I always have various projects on the go at any one time...
 
-Feel free to reach out via the links below.
+Lately, I've been working on a [script](https://github.com/sortsammcdonald/archive_generator) to archive my various writings online. You can see the archive itself [here](https://github.com/sortsammcdonald/writing_archive/tree/main).
+
+I'm up for learning more about Functional Programming and the theory behind it. For the most part it's quite beyond me, but it's good to have challenges.
+<hr></hr>
 ## Connect with me
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 24px 0;">
